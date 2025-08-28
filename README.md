@@ -15,10 +15,7 @@
 
 **Database:** PostgreSQL
 
-
-## Screenshots
-
-![App Screenshot](https://i.imgur.com/5sVJ30q.png)
+ 
 
 
 ## Used By
